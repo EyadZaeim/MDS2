@@ -12,4 +12,4 @@ sample sheet : https://docs.google.com/spreadsheets/d/1zTZRO27k_f5YsX9zkUXjsmuHs
 
 I have impelemted these code and i would like to perform them both. After the mailmerge, deleting specified rows ( for example last 5 rows from 3 table )
 
-The error is happening in the last line of the c
+
